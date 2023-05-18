@@ -18,7 +18,7 @@ PARAM  <- list()
 PARAM$experimento  <- "CA5110-jug"
 PARAM$dataset  <- "./datasets/competencia_2023.csv.gz"
 
-PARAM$metodo  <- "Ninguno"     #valores posibles  "MachineLearning"  "EstadisticaClasica" "Ninguno"
+PARAM$metodo  <- "MachineLearning"     #valores posibles  "MachineLearning"  "EstadisticaClasica" "Ninguno"
 # FIN Parametros del script
 
 

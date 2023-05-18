@@ -23,7 +23,7 @@ PARAM$exp_input  <- "CA5110-jug"
 PARAM$variables_intrames  <- TRUE   # atencion esto esta en TRUE
 
 #valores posibles  "ninguno" "rank_simple" , "rank_cero_fijo" , "deflacion"
-PARAM$metodo  <- "rank_cero_fijo"
+PARAM$metodo  <- "rank_simple"
 # FIN Parametros del script
 
 
