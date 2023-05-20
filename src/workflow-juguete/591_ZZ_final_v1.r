@@ -35,7 +35,7 @@ PARAM$experimento  <- "ZZ5910-jug"
 PARAM$exp_input  <- "HT5510-jug"
 
 #Atencion, quecada modelos se procesa con 5 semillas, ajuste a SUS necesidades
-PARAM$modelos_rank  <- c( 1, 2, 3, 4, 5 )  #Que modelos quiero, segun su posicion en el ranking e la Bayesian Optimizacion, ordenado por ganancia descendente
+PARAM$modelos_rank  <- c( 1, 2 )  #Que modelos quiero, segun su posicion en el ranking e la Bayesian Optimizacion, ordenado por ganancia descendente
 PARAM$semillas  <- c( 307873, 929209, 191953, 727843, 811127 ) #reemplazar por las propias semillas
 
 PARAM$kaggle$envios_desde  <-  8000
